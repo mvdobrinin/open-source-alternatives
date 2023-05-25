@@ -60,6 +60,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Hugo](https://github.com/gohugoio/hugo)|[gohugo.io](https://gohugo.io/)|<a href=https://github.com/gohugoio/hugo><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat" width=100/></a>
+[Gatsby](https://github.com/gatsbyjs/gatsby)|[gatsbyjs.com](https://www.gatsbyjs.com/)|<a href=https://github.com/gatsbyjs/gatsby><img src="https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat" width=100/></a>
 [Jekyll](https://github.com/jekyll/jekyll)|[jekyllrb.com](https://jekyllrb.com/)|<a href=https://github.com/jekyll/jekyll><img src="https://img.shields.io/github/stars/jekyll/jekyll?style=flat" width=100/></a>
 [11ty](https://github.com/11ty/eleventy)|[11ty.dev](https://www.11ty.dev/)|<a href=https://github.com/11ty/eleventy><img src="https://img.shields.io/github/stars/11ty/eleventy?style=flat" width=100/></a>
 [Zola](https://github.com/getzola/zola)|[getzola.org](https://getzola.org/)|<a href=https://github.com/getzola/zola><img src="https://img.shields.io/github/stars/getzola/zola?style=flat" width=100/></a>
